@@ -1,0 +1,15 @@
+Boxes
+Properties: Width/Height, Number
+Behaviors: Get Boxes(PER), Count Boxes, And Deliver Boxes
+
+Ordering_Process
+Properties (Customer Input): Name, Adress, And Customer's Request
+Behaviors: Get Name, Get Address, And Get Requirements(PER)
+
+Iteration
+Recheck All Above For Any Constraints Or Errors In Process
+Have A Feedback Query To Guarantee Customer Satisfaction
+Get Responses
+
+Preconditions: All Customer Input Must Be Valid, Boxes Match Customer Requirements
+Postconditions: Boxes Are Delivered Successfully And To The Right Location (Transportation Must Remain Effective As A Precondition)
