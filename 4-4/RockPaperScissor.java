@@ -2,7 +2,6 @@ import java.util.Scanner;
 import java.util.Random;
 
 public class RockPaperScissor {
-
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

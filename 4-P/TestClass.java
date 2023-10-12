@@ -1,5 +1,4 @@
 public class TestClass {
-
     public static void main(String args[]) {
         //Temperature
         double comp = (5/9);

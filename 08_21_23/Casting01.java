@@ -18,5 +18,5 @@ public class Casting01 {
         b2++;
         System.out.println(b2);
 
-    }    
+    }
 }

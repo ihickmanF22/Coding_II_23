@@ -35,6 +35,6 @@ public class Tip01 {
         Person 7: $11
         Person 8: $30
         */
-        
-    }    
+
+    }
 }

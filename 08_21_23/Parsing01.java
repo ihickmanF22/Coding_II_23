@@ -18,5 +18,4 @@ public class Parsing01 {
         System.out.println(Integer.parseInt("987ds6nns65dsfs"));
 
     }
-    
 }

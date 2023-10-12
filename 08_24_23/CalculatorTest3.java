@@ -1,8 +1,8 @@
 public class CalculatorTest3 {
     public static void main(String[] args) {
-        
+
        Calculator3 calc = new Calculator3();
-       
+
        //Use the Calculator object and arguments supplied to findTotal()
        //to print the total for each person
        calc.findTotal(10);

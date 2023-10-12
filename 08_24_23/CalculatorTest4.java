@@ -1,8 +1,8 @@
 public class CalculatorTest4 {
     public static void main(String[] args) {
-        
+
         Calculator4 calc = new Calculator4();
-        
+
         double total = 0;
         //Name your friends
         //String P1 = "Jason";
@@ -23,5 +23,5 @@ public class CalculatorTest4 {
 
         //Find and print the entire table's total, including tax and tip
        System.out.println(total);
-    } 
+    }
 }

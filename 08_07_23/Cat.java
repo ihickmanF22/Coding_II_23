@@ -1,7 +1,7 @@
 public class Cat {
     //Properties/Fields
     public String name = "Dexter";
-    public int    age = 10;
+    public int age = 10;
     public String breed = "Tabby";
     public String favoriteFood = "Tuna";
 

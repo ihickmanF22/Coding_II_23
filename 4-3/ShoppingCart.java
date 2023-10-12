@@ -3,7 +3,7 @@ public class ShoppingCart {
         String custName = "Steve Smith";
         String firstName;
         int spaceIdx;
-        
+
         // Get the index of the space character (" ") in custName. 
         spaceIdx = custName.indexOf(" ");
 
@@ -12,6 +12,4 @@ public class ShoppingCart {
         System.out.println(firstName);
 
     }
-
-    
 }

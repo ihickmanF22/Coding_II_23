@@ -1,5 +1,4 @@
 public class Variables01 {
-
     public static void main(String[] args) {
         String x = "Sam";
         System.out.println("My name is " +x);
@@ -10,7 +9,5 @@ public class Variables01 {
                 + "everyone is to start appreciating " +x +" on " +x
                 + " Appreciation Day! " +x +", " +x +", " +x +"! Yay "
                 + x +"!!! That's me! " +x +" is the best date ever!");
-        
     }
-    
 }

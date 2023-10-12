@@ -1,6 +1,5 @@
 public class Escape {
-
-public static void main(String[] args){
+public static void main(String[] args) {
     System.out.println("Isaac \r");
     }
 }

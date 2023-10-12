@@ -2,7 +2,7 @@ import javax.swing.JOptionPane;
 
 public class Input02 {
     public static void main(String[] args) {
-        
+
         JOptionPane.showMessageDialog(null,
                 "There's no input here, just a message",
                 "Title",
